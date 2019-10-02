@@ -1,0 +1,52 @@
+.init{
+    background-color:mediumaquamarine ;
+    height: 210px;
+}
+
+
+
+.cuerpo{
+  background-color: yellow;
+    height: 500px;
+}
+
+
+
+
+.footer{
+    background-color: mediumaquamarine;
+    height: 220px;
+}
+.par{
+    float: left;
+padding: 10px;
+color: yellowgreen;
+width: 30%;
+margin: 5px 10px;
+background: cyan;
+text-align: center;
+height: 90%;
+   
+}
+.part{
+float: left;
+padding: 10px;
+color: greenyellow;
+width: 30%;
+margin: 5px 10px;
+background: cyan;
+text-align: center;
+height: 90%;
+}
+.parte{
+    float: left;
+    padding: 10px;
+    color: indigo;
+    width: 31%;
+    margin: 5px 10px;
+    background: cyan;
+    text-align: center;
+    height: 90%;
+    }
+     
+   
